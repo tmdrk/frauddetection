@@ -30,6 +30,9 @@ import org.apache.flink.walkthrough.common.source.TransactionSource;
  * 基于DataStream API实现欺诈检测
  * https://ci.apache.org/projects/flink/flink-docs-release-1.11/zh/try-flink/datastream_api.html
  *
+ * Flink_输入数据集 Data Sources
+ * https://blog.csdn.net/qq_44509920/article/details/107434212
+ *
  */
 public class FraudDetectionJob {
 	public static void main(String[] args) throws Exception {
